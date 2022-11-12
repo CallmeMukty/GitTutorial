@@ -1,8 +1,12 @@
 MY TO-DO LIST
 
-1. Write an article.
-2. Code.
+1. Attempt assignment.
+2. Practice Code.
 3. Study books.
 4. Attend classes on time.
-5. Visit aunt.
-6. Apply for remote jobs. 
+5. Apply for remote jobs.
+6. Checkout FreecodeCamp
+7. Checkout w3schools
+8. Checkout Frontend mentor
+
+  YOU MUST MASTER CODING! NO MATTER HOW DUMB YOU MIGHT BE. IT IS POSSIBLE.
